@@ -2,8 +2,7 @@
 
 Nama Kelompok
 
-Ahmad Muslikhul Imam - 319
-Muh. Rayhan Islammiah P - 333
+Ahmad Muslikhul Imam - 319 || Muh. Rayhan Islammiah P - 333
 
 Tugas Besar AI
 Dataset = https://data.mendeley.com/datasets/s82j8dh4rr
